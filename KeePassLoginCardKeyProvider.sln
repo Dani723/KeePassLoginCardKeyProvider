@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KeePassLoginCardKeyProvider", "KeePassLoginCardKeyProvider\KeePassLoginCardKeyProvider.csproj", "{2D733498-1715-4EA2-BD18-8A47AE92056A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2D733498-1715-4EA2-BD18-8A47AE92056A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D733498-1715-4EA2-BD18-8A47AE92056A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D733498-1715-4EA2-BD18-8A47AE92056A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D733498-1715-4EA2-BD18-8A47AE92056A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
