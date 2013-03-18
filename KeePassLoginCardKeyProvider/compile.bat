@@ -1,0 +1,2 @@
+﻿c:\PathToKeePass\KeePass.exe --plgx-create c:\PathToProject\KeePassLoginCard   --plgx-build-post:"cmd /c COPY """{PLGX_TEMP_DIR}KeePassLoginCard32.exe""" """{PLGX_CACHE_DIR}""" && COPY """{PLGX_TEMP_DIR}oi32.dll""" """{PLGX_CACHE_DIR}""""
+pause
